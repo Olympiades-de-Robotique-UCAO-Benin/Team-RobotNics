@@ -4,7 +4,7 @@
 
 ![ORC 2026](https://img.shields.io/badge/ORC_2026-Compétition_Officielle-0057A8?style=for-the-badge)
 ![Équipe #1](https://img.shields.io/badge/Équipe-%231-0057A8?style=for-the-badge)
-![EGEI](https://img.shields.io/badge/EGEI%231-0057A8?style=for-the-badge)
+![EGEI](https://img.shields.io/badge/EGEI231-0057A8?style=for-the-badge)
 ![UCAO-UUC](https://img.shields.io/badge/UCAO--UUC-Bénin-gold?style=for-the-badge)
 
 > **« Nous ne construisons pas seulement des robots, nous construisons l'avenir. »**
